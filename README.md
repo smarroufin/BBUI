@@ -4,6 +4,13 @@ World of Warcraft addon for a cleaned up & improved Blizzard UI.
 
 # Changelog
 
+## [1.0.1]
+
+### Changed
+
+- WoW version update
+
+
 ## [1.0.0]
 
 ### Added

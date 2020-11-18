@@ -1,7 +1,7 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: BBUI
 ## Author: smarroufin
 ## Notes: Cleaned up & improved version of the default UI
-## Version: 1.0.0
+## Version: 1.0.1
 
 main.lua
