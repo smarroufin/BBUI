@@ -25,7 +25,7 @@ local function BBUI_UpdateActionBars()
         local bWidth = r1:GetWidth()
         local margin = 6
         r1:ClearAllPoints()
-        r1:SetPoint("BOTTOMLEFT", UIParent, "BOTTOM", -(bWidth * 6 + margin * 5 + margin / 2), 2)
+        r1:SetPoint("BOTTOMLEFT", StatusTrackingBarManager, "TOP", -(bWidth * 6 + margin * 5 + margin / 2), -7)
         local r6 = MultiBarBottomRightButton6
         local r7 = MultiBarBottomRightButton7
         r7:ClearAllPoints()
