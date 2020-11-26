@@ -1,0 +1,8 @@
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - DESCRIPTION.md
+  - LICENSE.md
+  - README.md

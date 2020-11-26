@@ -23,12 +23,16 @@ No settings planned.
 #### Micromenu & bags
 
 - Artwork hidden
-- Secondary bags hidden
+- Bags hidden
 
 #### Minimap
 
 - Zoom buttons, Worldmap and Current place artwork hidden
 - Minimap zoom on mouse wheel enabled
+
+#### Chat
+
+- Social & Voice channel hidden
 
 #### Player and target frames
 

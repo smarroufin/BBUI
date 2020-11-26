@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.3]
+
+### Added
+- Hide main bag
+- Hide social & voice channel buttons
+
+### Changed
+- Improve action buttons position
+
+
 ## [1.0.2]
 
 ### Fixed
