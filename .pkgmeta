@@ -3,4 +3,6 @@ manual-changelog:
   markup-type: markdown
 
 ignore:
+  - DESCRIPTION.md
+  - LICENSE.md
   - README.md

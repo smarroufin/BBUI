@@ -2,6 +2,6 @@
 ## Title: BBUI
 ## Author: smarroufin
 ## Notes: Cleaned up & improved version of the default UI
-## Version: 1.0.2
+## Version: 1.0.3
 
 main.lua
