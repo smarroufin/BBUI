@@ -1,5 +1,6 @@
 local BBUI_Default = {
-    ImproveActionBar = true,
+    HideActionBarArts = true,
+    ImproveActionBars = true,
     HideStances = true,
     ImproveBags = true,
     HideMainBag = true,
@@ -15,7 +16,7 @@ local BBUI_Default = {
 }
 
 local function BBUI_UpdateActionBars()
-    if BBUI_Default.ImproveActionBar then
+    if BBUI_Default.HideActionBarArts then
         MainMenuBarArtFrameBackground:Hide()
         MainMenuBarArtFrame.LeftEndCap:Hide()
         MainMenuBarArtFrame.RightEndCap:Hide()
@@ -23,6 +24,8 @@ local function BBUI_UpdateActionBars()
         MainMenuBarArtFrame.PageNumber:Hide()
         ActionBarUpButton:Hide()
         ActionBarDownButton:Hide()
+    end
+    if BBUI_Default.ImproveActionBars then
         local r1 = MultiBarBottomRightButton1
         local buttonWidth = r1:GetWidth()
         local margin = 4
