@@ -14,4 +14,4 @@ World of Warcraft addon for a cleaned up & improved Blizzard UI.
 
 MacOS:
 
-`zip -vr BBUI-1.0.0.zip BBUI -x "*.DS_Store" "*.md"`
+`zip -vr BBUI-1.0.0.zip BBUI -i BBUI.toc CHANGELOG.md main.lua`
