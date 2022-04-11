@@ -6,4 +6,4 @@ ignore:
   - DESCRIPTION.md
   - LICENSE.md
   - README.md
-  - scripts
+  - copy.sh
