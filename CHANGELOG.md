@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.4]
+
+### Changed
+- WoW version update
+
+
 ## [1.0.3]
 
 ### Added
